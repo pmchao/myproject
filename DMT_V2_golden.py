@@ -6,7 +6,7 @@ import tkinter as tk
 from tkinter import ttk
 from PIL import Image, ImageTk, ImageGrab
 import os
-import pyautogui
+#import pyautogui
 from matplotlib.backends.backend_pdf import PdfPages
 
 """
